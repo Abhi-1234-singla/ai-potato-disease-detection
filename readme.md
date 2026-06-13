@@ -393,9 +393,10 @@ B.Tech Computer Science Engineering
 
 AI/ML Enthusiast | Full Stack Developer
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/Abhi-1234-singla
 
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
+LinkedIn: www.linkedin.com/in/abhishek-singla-16960432a  
+
 
 ---
 
