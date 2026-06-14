@@ -1,0 +1,123 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# =========================
+# Model Files
+# =========================
+*.h5
+*.keras
+*.ckpt
+*.pth
+*.pt
+*.pb
+
+# Uncomment if model file is too large
+# models/
+# checkpoints/
+
+# =========================
+# Dataset
+# =========================
+dataset/
+datasets/
+data/
+train/
+test/
+validation/
+
+# =========================
+# TensorFlow Logs
+# =========================
+logs/
+tensorboard_logs/
+
+# =========================
+# FastAPI
+# =========================
+*.db
+*.sqlite3
+
+# =========================
+# Node.js / React / Vite
+# =========================
+node_modules/
+dist/
+build/
+.vite/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Operating System
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Testing & Coverage
+# =========================
+.coverage
+.pytest_cache/
+htmlcov/
+
+# =========================
+# Logs
+# =========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.swp
+
+# =========================
+# Build Artifacts
+# =========================
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# =========================
+# Secrets
+# =========================
+secrets.json
+credentials.json
+
+# =========================
+# Cache
+# =========================
+.cache/
